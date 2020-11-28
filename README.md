@@ -1,19 +1,13 @@
 # Heading
 
-## Sub-Heading and so on and so forth
+## Sub-Heading 
 
-Hello, we are **working**. This is a Bold word.
-Hello, we are *working*. This is italics. 
+Hello, my name is **Izhar Mehar**.
+I work at *Loblaw Companies Limitied*.
 
-Hello, we are working with md syntax.
+- Item 1
+- Item 2
+- Item 3
+    - Item 3A
+    - Item 3B
 
-- List a
-- List B
-    - List B1
-    - List B2
-
-- First
-- Second
-- Third
-    - Third A
-    - Third B
